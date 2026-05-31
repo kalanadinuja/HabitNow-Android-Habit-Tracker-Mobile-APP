@@ -49,11 +49,6 @@ I designed and developed the entire Android application from scratch, including:
 - Implementing **notifications** and background tasks
 - Handling **state management** in Android
 
-## 📸 Screenshots
-
-| Home Screen | Add Habit | Statistics |
-|-------------|-----------|------------|
-| (Add screenshot) | (Add screenshot) | (Add screenshot) |
 
 ## 🚀 Getting Started
 
