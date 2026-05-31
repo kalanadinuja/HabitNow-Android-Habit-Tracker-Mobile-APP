@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">MadLab3</string>
+    <string name="splash_tagline">Welcome to Well Path App</string>
+    <string name="login_title">Login</string>
+    <string name="register_title">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="no_account_register">Don\'t have an account? Register</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="register_success">Registration successful! Please login.</string>
+    <string name="register_failed">Registration failed. Email already exists.</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_failed">Login failed. Invalid credentials.</string>
+    <string name="home_greeting">Hello, %1$s!</string>
+    <string name="btn_hydration">Hydration</string>
+    <string name="btn_mood">Mood</string>
+    <string name="btn_habit">Habit Track</string>
+    <string name="btn_profile">Profile</string>
+
+    <!-- Hydration Reminder Strings -->
+    <string name="hydration_title">Hydration Reminder</string>
+    <string name="set_time">Set Time</string>
+    <string name="reminder_interval">Set Reminder Interval</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="first_reminder">First reminder at:</string>
+    <string name="start_reminder">Start Reminder</string>
+    <string name="stop_reminder">Stop Reminder</string>
+    <string name="notification_title">Time to drink water!</string>
+    <string name="notification_text">Stay hydrated for better health</string>
+    <string name="channel_name">Hydration Reminders</string>
+    <string name="channel_description">Reminders to drink water throughout the day</string>
+    <string name="reminder_started">Hydration reminder started!</string>
+    <string name="reminder_stopped">Hydration reminder stopped.</string>
+    <string name="hydration_info">Your water reminder will repeat at the interval you set, starting from the time you choose.</string>
+    <string name="back">Back</string>
+
+    <!-- Habit Tracker Strings -->
+    <string name="habit_tracker">Habit Tracker</string>
+    <string name="today_progress">Today\'s Progress</string>
+    <string name="my_habits">My Habits</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="add_new_habit">Add New Habit</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="daily_goal">Daily Goal:</string>
+    <string name="habit_unit_hint">Unit (e.g. times)</string>
+    <string name="times">times</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_icon">Pick an icon</string>
+    <string name="change_icon">Change icon</string>
+    <string name="habit_complete">Complete</string>
+    <string name="habit_completed">Completed!</string>
+
+    <string name="delete_habit">Delete</string>
+    <string name="habit_goal_format">Goal: %1$d %2$s</string>
+    <string name="habit_progress_text">%1$d of %2$d habits completed</string>
+
+    <!-- Mood Journal Strings -->
+    <string name="mood_journal">Mood Journal</string>
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="select_emoji">Select an emoji that matches your mood</string>
+    <string name="add_note_optional">Add a note (optional)</string>
+    <string name="add_mood">Add Mood</string>
+    <string name="edit_mood">Edit Mood</string>
+    <string name="your_mood_entries">Your Mood Journal</string>
+    <string name="mood_instruction">Track your emotional wellbeing</string>
+    <string name="tap_button_add_mood">Tap the + button to record how you feel</string>
+    <string name="mood_saved">Mood saved!</string>
+
+    <!-- Profile Strings -->
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="member_since">Member since %s</string>
+    <string name="member_since_placeholder">Member since Sep 20, 2025</string>
+
+    <!-- Mood Chart and Sharing Strings -->
+    <string name="weekly_mood_trend">Weekly Mood Trend</string>
+    <string name="share_mood">Share Mood Summary</string>
+    <string name="share_mood_via">Share mood summary via</string>
+    <string name="share_mood_subject">My Mood Summary</string>
+    <string name="share_mood_summary_title">My Mood Journal Summary</string>
+    <string name="no_mood_entries">No mood entries recorded yet.</string>
+    <string name="mood_summary_conclusion">Currently feeling %1$s %2$s</string>
+    <string name="mood_trend">Mood Trend</string>
+
+    <!-- Widget Strings -->
+    <string name="today_habits">Today\'s Habits</string>
+    <string name="habit_progress_placeholder">0 of 0 completed</string>
+    <string name="set_reminder_interval" />
+    <string name="first_reminder_at" />
+</resources>

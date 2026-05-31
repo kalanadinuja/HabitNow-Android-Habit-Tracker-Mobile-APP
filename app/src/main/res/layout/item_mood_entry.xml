@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardMood"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <!-- Emoji -->
+        <TextView
+            android:id="@+id/tvMoodEmoji"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:text="😊"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:layout_marginEnd="16dp" />
+
+        <!-- Mood Details -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvMoodName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Happy"
+                android:textSize="18sp"
+                android:textColor="@color/textColorPrimary"
+                android:fontFamily="sans-serif-medium" />
+
+            <TextView
+                android:id="@+id/tvMoodDateTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2025-09-20 at 14:30"
+                android:textSize="14sp"
+                android:textColor="@color/textColorPrimary"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/tvMoodNote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="This is a note about my mood"
+                android:textSize="14sp"
+                android:textColor="@color/textColorPrimary"
+                android:layout_marginTop="8dp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

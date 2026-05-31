@@ -1,0 +1,22 @@
+<resources>
+    <!-- 60% Primary Color -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- 30% Secondary Color -->
+    <color name="colorSecondary">#FF9800</color>
+
+    <!-- 10% Accent Color -->
+    <color name="colorAccent">#E91E63</color>
+
+    <!-- Darker variant of Primary Color -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Text Color -->
+    <color name="textColorPrimary">#212121</color>
+
+    <!-- Background Color -->
+    <color name="backgroundColor">#F5F5F5</color>
+
+    <!-- Button Color -->
+    <color name="buttonColor">#2196F3</color>
+</resources>
