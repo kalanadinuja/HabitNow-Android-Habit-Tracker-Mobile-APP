@@ -56,6 +56,4 @@ I designed and developed the entire Android application from scratch, including:
 - Android Studio (latest version)
 - Android SDK (minimum API 26 / Android 8.0)
 
-### Clone the repository
-```bash
-git clone https://github.com/kalanadinuja/HabitNow-Android-Habit-Tracker-Mobile-APP.git
+
